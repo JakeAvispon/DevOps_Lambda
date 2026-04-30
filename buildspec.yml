@@ -7,4 +7,4 @@ phases:
   build:
     commands:
       - echo 'Ejecutando análisis'
-      - python3 procesar.py
+      - python procesar.py
